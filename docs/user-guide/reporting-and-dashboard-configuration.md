@@ -6,4 +6,11 @@ sidebar_position: 14
 
 # Reporting and Dashboard Configuration
 
-_Content coming soon._
+## Typical configuration steps
+1. Define which KPIs matter for the business (sales, footfall conversion,
+   stock turnover, etc.).
+2. Set up dashboards per role (store manager vs head office).
+3. Schedule automated report delivery (daily/weekly/monthly) as needed.
+
+See also the [Reporting](../product-documentation/reporting) solution
+overview.

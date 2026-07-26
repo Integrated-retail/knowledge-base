@@ -6,4 +6,8 @@ sidebar_position: 12
 
 # Device Management
 
-_Content coming soon._
+## Typical activities
+- Registering new POS terminals, printers and scanners.
+- Monitoring device health/connectivity status.
+- Pushing software updates to devices.
+- Decommissioning and wiping devices no longer in use.

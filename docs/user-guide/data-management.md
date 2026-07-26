@@ -6,4 +6,8 @@ sidebar_position: 16
 
 # Data Management
 
-_Content coming soon._
+## Typical activities
+- Importing/exporting product, pricing and customer data.
+- Data cleanup (e.g. merging duplicate customer records).
+- Coordinating data retention per the
+  [Data Retention Policy](../legal-policies/data-retention-policy).
