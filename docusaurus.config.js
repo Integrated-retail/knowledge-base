@@ -72,7 +72,8 @@ const config = {
         title: 'Integrated Retail',
         logo: {
           alt: 'Integrated Retail Logo',
-          src: 'img/logo.svg',
+          src: 'img/ir-logo.png',
+          height: 32,
         },
         items: [
           {
