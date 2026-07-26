@@ -1,6 +1,7 @@
 ---
 id: brochure
 title: "Brochure"
+description: "Integrated Retail overview: POS, e-commerce, CRM, inventory and reporting solutions for fashion, lifestyle and CPG retailers across Asia Pacific."
 sidebar_position: 1
 ---
 

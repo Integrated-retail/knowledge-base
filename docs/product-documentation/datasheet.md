@@ -1,6 +1,7 @@
 ---
 id: datasheet
 title: "Datasheet"
+description: "Module-by-module datasheet: retail POS software, e-commerce, CRM, inventory management and reporting & analytics for omnichannel retailers."
 sidebar_position: 3
 ---
 

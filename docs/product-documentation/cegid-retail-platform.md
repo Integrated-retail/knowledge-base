@@ -1,6 +1,7 @@
 ---
 id: cegid-retail-platform
 title: "Cegid Retail Platform"
+description: "Cegid Retail Y2, UR/Winstore, Orli/SCM and Retail Intelligence explained — and how Integrated Retail implements and supports them across Asia Pacific."
 sidebar_position: 6
 ---
 

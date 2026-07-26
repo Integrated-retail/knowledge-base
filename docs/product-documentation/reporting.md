@@ -1,6 +1,7 @@
 ---
 id: reporting
 title: "Reporting"
+description: "How Integrated Retail's reporting and analytics turns POS and inventory data into real-time, actionable insight across every store and channel."
 sidebar_position: 5
 ---
 

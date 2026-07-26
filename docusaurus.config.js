@@ -11,7 +11,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Integrated Retail Knowledge Hub',
-  tagline: 'Policies, product documentation and guides for Integrated Retail',
+  tagline:
+    'Omnichannel POS, unified commerce and retail technology guides for fashion, lifestyle and CPG retailers in Asia Pacific',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -52,9 +53,29 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: false,
+        blog: {
+          routeBasePath: '/blog',
+          showReadingTime: true,
+          blogTitle: 'Retail Technology Insights',
+          blogDescription:
+            'Guides on unified commerce, POS and retail technology for fashion, lifestyle and CPG retailers in Asia Pacific.',
+          postsPerPage: 10,
+          feedOptions: {
+            type: ['rss', 'atom'],
+            xslt: true,
+          },
+          onInlineTags: 'warn',
+          onInlineAuthors: 'warn',
+          onUntruncatedBlogPosts: 'warn',
+        },
         theme: {
           customCss: './src/css/custom.css',
+        },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
         },
       }),
     ],
@@ -63,8 +84,15 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // Social share preview image (shown on LinkedIn/Facebook/X link previews).
+      image: 'img/ir-logo.png',
+      metadata: [
+        {
+          name: 'keywords',
+          content:
+            'retail POS system, unified commerce, omnichannel retail, retail technology Asia Pacific, Cegid, POS software Singapore',
+        },
+      ],
       colorMode: {
         respectPrefersColorScheme: true,
       },
@@ -85,11 +113,31 @@ const config = {
             position: 'left',
             label: 'Knowledge Base',
           },
+          { to: '/blog', label: 'Insights', position: 'left' },
         ],
       },
       footer: {
         style: 'light',
-        links: [],
+        links: [
+          {
+            title: 'Knowledge Base',
+            items: [
+              { label: 'Product Documentation', to: '/docs/product-documentation/brochure' },
+              { label: 'Cegid Retail Platform', to: '/docs/product-documentation/cegid-retail-platform' },
+            ],
+          },
+          {
+            title: 'Insights',
+            items: [{ label: 'Retail Technology Blog', to: '/blog' }],
+          },
+          {
+            title: 'Company',
+            items: [
+              { label: 'integratedretail.com', href: 'https://integratedretail.com' },
+              { label: 'Contact us', href: 'https://integratedretail.com/contact/' },
+            ],
+          },
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} Integrated Retail. Content synced from the internal knowledge base.`,
       },
       prism: {
