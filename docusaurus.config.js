@@ -69,8 +69,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        // No separate title text — the logo image already contains the
-        // company name, so showing both would be redundant.
+        // Explicit empty title — the logo image already contains the
+        // company name, so showing both would be redundant. Omitting this
+        // key isn't enough; Docusaurus falls back to siteConfig.title.
+        title: '',
         logo: {
           alt: 'Integrated Retail — Strategize, Execute, Grow',
           src: 'img/ir-logo.png',
