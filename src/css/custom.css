@@ -63,3 +63,10 @@
 [data-theme='dark'] .footer {
   background-color: var(--ir-navy-dark);
 }
+
+/* The logo image already contains the "Integrated Retail" wordmark, so hide
+ * the separate navbar title text Docusaurus still renders regardless of
+ * navbar.title being set to ''. */
+.navbar__title {
+  display: none;
+}
