@@ -20,14 +20,17 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://integrated-retail.github.io',
+  // NOTE: this currently points at a personal demo repo (tkembaren doesn't
+  // yet have write access to Integrated-retail/KB-Test). Once access is
+  // granted, switch these four values back to the org repo and re-deploy.
+  url: 'https://tkembaren.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/KB-Test/',
+  baseUrl: '/integrated-retail-kb-demo/',
 
   // GitHub pages deployment config.
-  organizationName: 'Integrated-retail', // GitHub org name.
-  projectName: 'KB-Test', // GitHub repo name.
+  organizationName: 'tkembaren', // GitHub user/org name.
+  projectName: 'integrated-retail-kb-demo', // GitHub repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
