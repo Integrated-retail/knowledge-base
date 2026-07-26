@@ -69,11 +69,12 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Integrated Retail',
+        // No separate title text — the logo image already contains the
+        // company name, so showing both would be redundant.
         logo: {
-          alt: 'Integrated Retail Logo',
+          alt: 'Integrated Retail — Strategize, Execute, Grow',
           src: 'img/ir-logo.png',
-          height: 32,
+          height: 40,
         },
         items: [
           {
