@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tkembaren.github.io/integrated-retail-kb-demo/sitemap.xml
+Sitemap: https://integrated-retail.github.io/KB-Test/sitemap.xml
