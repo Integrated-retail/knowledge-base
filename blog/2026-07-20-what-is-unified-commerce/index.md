@@ -62,9 +62,9 @@ commerce especially valuable:
 
 Integrated Retail implements and supports unified commerce platforms —
 including **Cegid Retail Y2**, **Cegid Retail UR/Winstore** and **Retail
-Pro Prism** — for fashion, lifestyle and CPG retailers across Singapore,
-Indonesia and Thailand. Our solutions currently power over 3,000
-storefronts and more than US$1 billion in commerce.
+Pro Prism** — for fashion, lifestyle and CPG retailers across APAC. Our
+solutions currently power over 3,000 storefronts and more than US$1
+billion in commerce.
 
 See [Cegid Retail Platform](/docs/product-documentation/cegid-retail-platform)
 or [Retail Pro Prism Platform](/docs/product-documentation/retailpro-prism-platform)

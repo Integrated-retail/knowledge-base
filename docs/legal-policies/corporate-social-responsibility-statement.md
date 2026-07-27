@@ -9,8 +9,8 @@ sidebar_position: 20
 > **Draft template.** This is generic starting content, not a reviewed or binding company policy. Have Legal review and approve before publishing externally.
 
 Integrated Retail supports the retailers and communities we work with
-across Singapore, Indonesia and Thailand by helping local businesses grow
-sustainably through better technology.
+across APAC by helping local businesses grow sustainably through better
+technology.
 
 ## Our focus areas
 - **Enabling local retail growth** — helping fashion, lifestyle and CPG

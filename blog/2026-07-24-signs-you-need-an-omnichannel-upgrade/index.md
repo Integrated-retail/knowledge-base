@@ -59,10 +59,10 @@ built to solve — see our explainer on
 
 ## Next step
 
-Integrated Retail helps fashion, lifestyle and CPG retailers across
-Singapore, Indonesia and Thailand assess their current setup and plan a
-practical upgrade path — not a rip-and-replace, but a clear path from
-where you are to where you need to be.
+Integrated Retail helps fashion, lifestyle and CPG retailers across APAC
+assess their current setup and plan a practical upgrade path — not a
+rip-and-replace, but a clear path from where you are to where you need to
+be.
 
 [Book a free consultation](https://integratedretail.com/contact/) to talk
 through your specific setup.

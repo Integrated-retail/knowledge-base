@@ -58,7 +58,7 @@ Retailers evaluating Retail Pro Prism typically value:
 ## Get started
 
 Integrated Retail handles the implementation, localization and ongoing
-support for Retail Pro Prism across Singapore, Indonesia and Thailand.
+support for Retail Pro Prism across APAC.
 
 - 📄 Browse the official Retail Pro documentation:
   [my.retailpro.com](https://my.retailpro.com/)

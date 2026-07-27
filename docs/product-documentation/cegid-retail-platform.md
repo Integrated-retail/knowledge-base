@@ -57,7 +57,7 @@ for:
 ## Get started
 
 Integrated Retail handles the implementation, localization and ongoing
-support for Cegid across Singapore, Indonesia and Thailand.
+support for Cegid across APAC.
 
 - 📄 Browse the official Cegid documentation:
   [retail-docs.cegid.cloud](https://retail-docs.cegid.cloud/)

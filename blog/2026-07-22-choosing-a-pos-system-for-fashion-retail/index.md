@@ -65,10 +65,9 @@ Licensing cost is only part of the picture. Ask about:
 ## 6. Who supports it locally?
 
 A platform is only as good as the team that implements and supports it.
-For retailers operating across Singapore, Indonesia and Thailand, having a
-support team in the same time zones — who understand local retail
-operations — makes a measurable difference to how quickly issues get
-resolved.
+For retailers operating across APAC, having a support team in the same
+time zones — who understand local retail operations — makes a measurable
+difference to how quickly issues get resolved.
 
 ## Where to go from here
 
