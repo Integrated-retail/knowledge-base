@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://integrated-retail.github.io/KB-Test/blog</id>
+    <id>https://integrated-retail.github.io/knowledge-base/blog</id>
     <title>Integrated Retail Knowledge Hub Blog</title>
     <updated>2026-07-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://integrated-retail.github.io/KB-Test/blog"/>
+    <link rel="alternate" href="https://integrated-retail.github.io/knowledge-base/blog"/>
     <subtitle>Integrated Retail Knowledge Hub Blog</subtitle>
-    <icon>https://integrated-retail.github.io/KB-Test/img/favicon.ico</icon>
+    <icon>https://integrated-retail.github.io/knowledge-base/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[5 Signs Your Retail Business Is Ready for an Omnichannel Upgrade]]></title>
-        <id>https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade</id>
-        <link href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade"/>
+        <id>https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade</id>
+        <link href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade"/>
         <updated>2026-07-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Practical warning signs that your current retail systems are holding back growth — and what an omnichannel or unified commerce upgrade actually fixes.]]></summary>
         <content type="html"><![CDATA[<p>Most retailers don't wake up one day and decide "we need omnichannel." The
@@ -18,38 +18,38 @@ need usually shows up gradually, as a series of small operational
 headaches that eventually add up to a real cost. Here are five signs it's
 time to look seriously at an upgrade.</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-your-team-manually-reconciles-stock-across-channels">1. Your team manually reconciles stock across channels<a href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade#1-your-team-manually-reconciles-stock-across-channels" class="hash-link" aria-label="Direct link to 1. Your team manually reconciles stock across channels" title="Direct link to 1. Your team manually reconciles stock across channels" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-your-team-manually-reconciles-stock-across-channels">1. Your team manually reconciles stock across channels<a href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade#1-your-team-manually-reconciles-stock-across-channels" class="hash-link" aria-label="Direct link to 1. Your team manually reconciles stock across channels" title="Direct link to 1. Your team manually reconciles stock across channels" translate="no">​</a></h2>
 <p>If someone on your team spends part of every day (or week) manually
 checking that online stock matches in-store stock, that's not a process
 problem — it's a systems problem. It usually means your channels aren't
 sharing a single source of truth for inventory.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-customers-get-a-different-experience-depending-on-the-channel">2. Customers get a different experience depending on the channel<a href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade#2-customers-get-a-different-experience-depending-on-the-channel" class="hash-link" aria-label="Direct link to 2. Customers get a different experience depending on the channel" title="Direct link to 2. Customers get a different experience depending on the channel" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-customers-get-a-different-experience-depending-on-the-channel">2. Customers get a different experience depending on the channel<a href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade#2-customers-get-a-different-experience-depending-on-the-channel" class="hash-link" aria-label="Direct link to 2. Customers get a different experience depending on the channel" title="Direct link to 2. Customers get a different experience depending on the channel" translate="no">​</a></h2>
 <p>If a customer's loyalty points, purchase history or preferences don't
 carry over between your store and your website, you're not just missing
 a "nice to have" — you're leaving personalization and repeat-purchase
 opportunities on the table.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-opening-a-new-store-is-harder-than-it-should-be">3. Opening a new store is harder than it should be<a href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade#3-opening-a-new-store-is-harder-than-it-should-be" class="hash-link" aria-label="Direct link to 3. Opening a new store is harder than it should be" title="Direct link to 3. Opening a new store is harder than it should be" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-opening-a-new-store-is-harder-than-it-should-be">3. Opening a new store is harder than it should be<a href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade#3-opening-a-new-store-is-harder-than-it-should-be" class="hash-link" aria-label="Direct link to 3. Opening a new store is harder than it should be" title="Direct link to 3. Opening a new store is harder than it should be" translate="no">​</a></h2>
 <p>Rolling out a new location should mostly be a checklist: hardware,
 network, staff accounts, go-live. If every new store rollout still
 involves custom integration work or manual data setup, your platform is
 adding friction to your own growth plans.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-reporting-takes-real-effort-to-produce">4. Reporting takes real effort to produce<a href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade#4-reporting-takes-real-effort-to-produce" class="hash-link" aria-label="Direct link to 4. Reporting takes real effort to produce" title="Direct link to 4. Reporting takes real effort to produce" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-reporting-takes-real-effort-to-produce">4. Reporting takes real effort to produce<a href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade#4-reporting-takes-real-effort-to-produce" class="hash-link" aria-label="Direct link to 4. Reporting takes real effort to produce" title="Direct link to 4. Reporting takes real effort to produce" translate="no">​</a></h2>
 <p>If getting a simple answer — "what were our top 10 SKUs across all
 channels last week?" — means exporting data from two or three systems and
 combining it in a spreadsheet, your reporting is working against you
 instead of for you.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-fulfilment-flexibility-bopis-ship-from-store-isnt-reliable">5. Fulfilment flexibility (BOPIS, ship-from-store) isn't reliable<a href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade#5-fulfilment-flexibility-bopis-ship-from-store-isnt-reliable" class="hash-link" aria-label="Direct link to 5. Fulfilment flexibility (BOPIS, ship-from-store) isn't reliable" title="Direct link to 5. Fulfilment flexibility (BOPIS, ship-from-store) isn't reliable" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-fulfilment-flexibility-bopis-ship-from-store-isnt-reliable">5. Fulfilment flexibility (BOPIS, ship-from-store) isn't reliable<a href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade#5-fulfilment-flexibility-bopis-ship-from-store-isnt-reliable" class="hash-link" aria-label="Direct link to 5. Fulfilment flexibility (BOPIS, ship-from-store) isn't reliable" title="Direct link to 5. Fulfilment flexibility (BOPIS, ship-from-store) isn't reliable" translate="no">​</a></h2>
 <p>Buy Online, Pick Up In-Store and ship-from-store are now baseline
 customer expectations in many markets. If offering them means real risk
 of overselling stock that's actually not available, the underlying
 systems aren't ready to support them safely.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-actually-fixes-this">What actually fixes this<a href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade#what-actually-fixes-this" class="hash-link" aria-label="Direct link to What actually fixes this" title="Direct link to What actually fixes this" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="what-actually-fixes-this">What actually fixes this<a href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade#what-actually-fixes-this" class="hash-link" aria-label="Direct link to What actually fixes this" title="Direct link to What actually fixes this" translate="no">​</a></h2>
 <p>These symptoms usually point to the same root cause: multiple systems
 that were never designed to share one real-time view of stock, customers
 and transactions. That's exactly what a <strong>unified commerce</strong> platform is
 built to solve — see our explainer on
-<a class="" href="https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce">what unified commerce actually means</a>.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-step">Next step<a href="https://integrated-retail.github.io/KB-Test/blog/signs-you-need-an-omnichannel-upgrade#next-step" class="hash-link" aria-label="Direct link to Next step" title="Direct link to Next step" translate="no">​</a></h2>
+<a class="" href="https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce">what unified commerce actually means</a>.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="next-step">Next step<a href="https://integrated-retail.github.io/knowledge-base/blog/signs-you-need-an-omnichannel-upgrade#next-step" class="hash-link" aria-label="Direct link to Next step" title="Direct link to Next step" translate="no">​</a></h2>
 <p>Integrated Retail helps fashion, lifestyle and CPG retailers across APAC
 assess their current setup and plan a practical upgrade path — not a
 rip-and-replace, but a clear path from where you are to where you need to
@@ -66,8 +66,8 @@ through your specific setup.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[How to Choose a POS System for Multi-Store Fashion Retail]]></title>
-        <id>https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail</id>
-        <link href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail"/>
+        <id>https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail</id>
+        <link href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail"/>
         <updated>2026-07-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[A practical checklist for evaluating a POS system if you run — or plan to run — multiple fashion or lifestyle retail stores across Asia Pacific.]]></summary>
         <content type="html"><![CDATA[<p>Choosing a point-of-sale (POS) system is one of the highest-leverage
@@ -78,19 +78,19 @@ years.</p>
 <!-- -->
 <p>Here's a practical checklist we walk retailers through before recommending
 a platform.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-does-it-handle-multi-store-not-just-single-store">1. Does it handle multi-store, not just single-store?<a href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail#1-does-it-handle-multi-store-not-just-single-store" class="hash-link" aria-label="Direct link to 1. Does it handle multi-store, not just single-store?" title="Direct link to 1. Does it handle multi-store, not just single-store?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="1-does-it-handle-multi-store-not-just-single-store">1. Does it handle multi-store, not just single-store?<a href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail#1-does-it-handle-multi-store-not-just-single-store" class="hash-link" aria-label="Direct link to 1. Does it handle multi-store, not just single-store?" title="Direct link to 1. Does it handle multi-store, not just single-store?" translate="no">​</a></h2>
 <p>A POS built for a single boutique often struggles once you open store #3
 or #4: per-store inventory visibility, inter-store transfers, and
 consolidated head-office reporting either don't exist or are bolted on
 later. If growth is the plan, evaluate the platform against your <em>future</em>
 store count, not just today's.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-can-it-support-omnichannel-out-of-the-box">2. Can it support omnichannel out of the box?<a href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail#2-can-it-support-omnichannel-out-of-the-box" class="hash-link" aria-label="Direct link to 2. Can it support omnichannel out of the box?" title="Direct link to 2. Can it support omnichannel out of the box?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="2-can-it-support-omnichannel-out-of-the-box">2. Can it support omnichannel out of the box?<a href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail#2-can-it-support-omnichannel-out-of-the-box" class="hash-link" aria-label="Direct link to 2. Can it support omnichannel out of the box?" title="Direct link to 2. Can it support omnichannel out of the box?" translate="no">​</a></h2>
 <p>Even if you don't sell online today, most fashion retailers will need to
 at some point. Check whether the platform is genuinely <strong>unified commerce</strong>
-(see our <a class="" href="https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce">unified commerce guide</a>) rather
+(see our <a class="" href="https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce">unified commerce guide</a>) rather
 than a POS that "can be integrated" with e-commerce later, at extra cost
 and complexity.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-how-does-it-handle-fashion-specific-complexity">3. How does it handle fashion-specific complexity?<a href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail#3-how-does-it-handle-fashion-specific-complexity" class="hash-link" aria-label="Direct link to 3. How does it handle fashion-specific complexity?" title="Direct link to 3. How does it handle fashion-specific complexity?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="3-how-does-it-handle-fashion-specific-complexity">3. How does it handle fashion-specific complexity?<a href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail#3-how-does-it-handle-fashion-specific-complexity" class="hash-link" aria-label="Direct link to 3. How does it handle fashion-specific complexity?" title="Direct link to 3. How does it handle fashion-specific complexity?" translate="no">​</a></h2>
 <p>Fashion retail has quirks that generic retail POS systems don't always
 handle gracefully:</p>
 <ul>
@@ -100,12 +100,12 @@ handle gracefully:</p>
 </ul>
 <p>If your merchandising team is fighting the system to represent your actual
 product structure, that's a red flag.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-what-does-reporting-actually-show-you-day-to-day">4. What does reporting actually show you, day to day?<a href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail#4-what-does-reporting-actually-show-you-day-to-day" class="hash-link" aria-label="Direct link to 4. What does reporting actually show you, day to day?" title="Direct link to 4. What does reporting actually show you, day to day?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="4-what-does-reporting-actually-show-you-day-to-day">4. What does reporting actually show you, day to day?<a href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail#4-what-does-reporting-actually-show-you-day-to-day" class="hash-link" aria-label="Direct link to 4. What does reporting actually show you, day to day?" title="Direct link to 4. What does reporting actually show you, day to day?" translate="no">​</a></h2>
 <p>Ask to see the <em>actual</em> dashboards a store manager and a head-office buyer
 would look at — not just a sales summary. Good retail reporting should
 surface sell-through rate, stock health and staff productivity without
 needing a separate BI tool bolted on.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-whats-the-total-cost-including-implementation">5. What's the total cost, including implementation?<a href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail#5-whats-the-total-cost-including-implementation" class="hash-link" aria-label="Direct link to 5. What's the total cost, including implementation?" title="Direct link to 5. What's the total cost, including implementation?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="5-whats-the-total-cost-including-implementation">5. What's the total cost, including implementation?<a href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail#5-whats-the-total-cost-including-implementation" class="hash-link" aria-label="Direct link to 5. What's the total cost, including implementation?" title="Direct link to 5. What's the total cost, including implementation?" translate="no">​</a></h2>
 <p>Licensing cost is only part of the picture. Ask about:</p>
 <ul>
 <li class="">Implementation and data migration cost and timeline.</li>
@@ -113,17 +113,17 @@ needing a separate BI tool bolted on.</p>
 <li class="">Ongoing local support — especially important across multiple countries
 with different languages and time zones.</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-who-supports-it-locally">6. Who supports it locally?<a href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail#6-who-supports-it-locally" class="hash-link" aria-label="Direct link to 6. Who supports it locally?" title="Direct link to 6. Who supports it locally?" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="6-who-supports-it-locally">6. Who supports it locally?<a href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail#6-who-supports-it-locally" class="hash-link" aria-label="Direct link to 6. Who supports it locally?" title="Direct link to 6. Who supports it locally?" translate="no">​</a></h2>
 <p>A platform is only as good as the team that implements and supports it.
 For retailers operating across APAC, having a support team in the same
 time zones — who understand local retail operations — makes a measurable
 difference to how quickly issues get resolved.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="where-to-go-from-here">Where to go from here<a href="https://integrated-retail.github.io/KB-Test/blog/choosing-a-pos-system-for-fashion-retail#where-to-go-from-here" class="hash-link" aria-label="Direct link to Where to go from here" title="Direct link to Where to go from here" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="where-to-go-from-here">Where to go from here<a href="https://integrated-retail.github.io/knowledge-base/blog/choosing-a-pos-system-for-fashion-retail#where-to-go-from-here" class="hash-link" aria-label="Direct link to Where to go from here" title="Direct link to Where to go from here" translate="no">​</a></h2>
 <p>Integrated Retail has implemented POS and unified commerce solutions for
 over 200 clients and 3,000+ storefronts across Asia Pacific, with local
 teams in Singapore, Indonesia and Thailand — primarily on
-<a class="" href="https://integrated-retail.github.io/KB-Test/docs/product-documentation/cegid-retail-platform">Cegid</a> and
-<a class="" href="https://integrated-retail.github.io/KB-Test/docs/product-documentation/retailpro-prism-platform">Retail Pro Prism</a>.</p>
+<a class="" href="https://integrated-retail.github.io/knowledge-base/docs/product-documentation/cegid-retail-platform">Cegid</a> and
+<a class="" href="https://integrated-retail.github.io/knowledge-base/docs/product-documentation/retailpro-prism-platform">Retail Pro Prism</a>.</p>
 <p>If you're evaluating a POS upgrade, <a href="https://integratedretail.com/contact/" target="_blank" rel="noopener noreferrer" class="">book a free consultation</a>
 and we'll walk through your current setup against this checklist.</p>]]></content>
         <author>
@@ -136,8 +136,8 @@ and we'll walk through your current setup against this checklist.</p>]]></conten
     </entry>
     <entry>
         <title type="html"><![CDATA[What Is Unified Commerce? A Guide for Fashion & Lifestyle Retailers in Asia Pacific]]></title>
-        <id>https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce</id>
-        <link href="https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce"/>
+        <id>https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce</id>
+        <link href="https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce"/>
         <updated>2026-07-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unified commerce explained: what it means, how it differs from omnichannel, and why fashion, lifestyle and CPG retailers across Asia Pacific are adopting it.]]></summary>
         <content type="html"><![CDATA[<p>If you've been researching retail technology, you've probably run into the
@@ -145,7 +145,7 @@ term <strong>unified commerce</strong>. It's often used interchangeably with
 "omnichannel," but they're not quite the same thing — and the difference
 matters if you're planning a technology upgrade.</p>
 <!-- -->
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="omnichannel-vs-unified-commerce">Omnichannel vs. unified commerce<a href="https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce#omnichannel-vs-unified-commerce" class="hash-link" aria-label="Direct link to Omnichannel vs. unified commerce" title="Direct link to Omnichannel vs. unified commerce" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="omnichannel-vs-unified-commerce">Omnichannel vs. unified commerce<a href="https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce#omnichannel-vs-unified-commerce" class="hash-link" aria-label="Direct link to Omnichannel vs. unified commerce" title="Direct link to Omnichannel vs. unified commerce" translate="no">​</a></h2>
 <p><strong>Omnichannel retail</strong> means selling across multiple channels — a
 physical store, a website, a marketplace, a mobile app — and trying to
 make the experience consistent between them. In practice, this is often
@@ -159,7 +159,7 @@ of record, updated in real time, everywhere.</p>
 loosely-integrated omnichannel setup, a stock update in-store might take
 minutes (or hours) to reflect online. In a unified commerce platform, it's
 instant — because there's only one source of truth.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-for-fashion-lifestyle-and-cpg-retailers">Why this matters for fashion, lifestyle and CPG retailers<a href="https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce#why-this-matters-for-fashion-lifestyle-and-cpg-retailers" class="hash-link" aria-label="Direct link to Why this matters for fashion, lifestyle and CPG retailers" title="Direct link to Why this matters for fashion, lifestyle and CPG retailers" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="why-this-matters-for-fashion-lifestyle-and-cpg-retailers">Why this matters for fashion, lifestyle and CPG retailers<a href="https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce#why-this-matters-for-fashion-lifestyle-and-cpg-retailers" class="hash-link" aria-label="Direct link to Why this matters for fashion, lifestyle and CPG retailers" title="Direct link to Why this matters for fashion, lifestyle and CPG retailers" translate="no">​</a></h2>
 <p>Fashion and lifestyle retail has some specific pressures that make unified
 commerce especially valuable:</p>
 <ul>
@@ -174,7 +174,7 @@ by a store associate or an online chatbot.</li>
 <li class=""><strong>Multi-store rollout speed</strong> — a single platform is faster to roll out
 to new stores than reconciling several point systems each time.</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="signs-its-time-to-consider-unified-commerce">Signs it's time to consider unified commerce<a href="https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce#signs-its-time-to-consider-unified-commerce" class="hash-link" aria-label="Direct link to Signs it's time to consider unified commerce" title="Direct link to Signs it's time to consider unified commerce" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="signs-its-time-to-consider-unified-commerce">Signs it's time to consider unified commerce<a href="https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce#signs-its-time-to-consider-unified-commerce" class="hash-link" aria-label="Direct link to Signs it's time to consider unified commerce" title="Direct link to Signs it's time to consider unified commerce" translate="no">​</a></h2>
 <ul>
 <li class="">Your team manually reconciles stock between your POS and your online
 store.</li>
@@ -184,14 +184,14 @@ work.</li>
 <li class="">Reporting requires exporting data from multiple systems and combining it
 by hand.</li>
 </ul>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-integrated-retail-helps">How Integrated Retail helps<a href="https://integrated-retail.github.io/KB-Test/blog/what-is-unified-commerce#how-integrated-retail-helps" class="hash-link" aria-label="Direct link to How Integrated Retail helps" title="Direct link to How Integrated Retail helps" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="how-integrated-retail-helps">How Integrated Retail helps<a href="https://integrated-retail.github.io/knowledge-base/blog/what-is-unified-commerce#how-integrated-retail-helps" class="hash-link" aria-label="Direct link to How Integrated Retail helps" title="Direct link to How Integrated Retail helps" translate="no">​</a></h2>
 <p>Integrated Retail implements and supports unified commerce platforms —
 including <strong>Cegid Retail Y2</strong>, <strong>Cegid Retail UR/Winstore</strong> and <strong>Retail
 Pro Prism</strong> — for fashion, lifestyle and CPG retailers across APAC. Our
 solutions currently power over 3,000 storefronts and more than US$1
 billion in commerce.</p>
-<p>See <a class="" href="https://integrated-retail.github.io/KB-Test/docs/product-documentation/cegid-retail-platform">Cegid Retail Platform</a>
-or <a class="" href="https://integrated-retail.github.io/KB-Test/docs/product-documentation/retailpro-prism-platform">Retail Pro Prism Platform</a>
+<p>See <a class="" href="https://integrated-retail.github.io/knowledge-base/docs/product-documentation/cegid-retail-platform">Cegid Retail Platform</a>
+or <a class="" href="https://integrated-retail.github.io/knowledge-base/docs/product-documentation/retailpro-prism-platform">Retail Pro Prism Platform</a>
 for a closer look at the platforms we implement, or
 <a href="https://integratedretail.com/contact/" target="_blank" rel="noopener noreferrer" class="">get in touch</a> to discuss your
 current setup.</p>]]></content>
