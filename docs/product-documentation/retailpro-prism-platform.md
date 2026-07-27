@@ -2,7 +2,7 @@
 id: retailpro-prism-platform
 title: "Retail Pro Prism Platform"
 description: "Retail Pro Prism explained: POS, inventory, CRM and reporting for specialty retail — and how Integrated Retail implements and supports it across Asia Pacific."
-sidebar_position: 7
+sidebar_position: 8
 ---
 
 # Retail Pro Prism Platform
@@ -55,6 +55,16 @@ Retailers evaluating Retail Pro Prism typically value:
   for regional tax requirements (VAT, GST and similar).
 - **Room to grow** — advanced add-ons available as you need them,
   including RFID tracking, open-to-buy planning and visual analytics.
+
+## Frequently asked questions
+
+Our support team has answered common questions about day-to-day use of
+Retail Pro Prism, covering
+[fast billing & checkout](./retailpro-prism-faq/fast-retail-billing-checkout),
+[real-time inventory & stock management](./retailpro-prism-faq/real-time-inventory-stock-management),
+[omnichannel returns, exchanges & BOPIS](./retailpro-prism-faq/omnichannel-returns-exchanges-bopis),
+[system integration, API & scalability](./retailpro-prism-faq/system-integration-api-scalability),
+and [secure IT support: data sync & offline reliability](./retailpro-prism-faq/secure-it-support-data-sync-offline).
 
 ## Get started
 

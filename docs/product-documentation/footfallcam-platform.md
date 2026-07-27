@@ -2,7 +2,7 @@
 id: footfallcam-platform
 title: "FootfallCam Platform"
 description: "FootfallCam explained: people counting, heatmaps and retail analytics — and how Integrated Retail deploys it across APAC."
-sidebar_position: 8
+sidebar_position: 10
 ---
 
 # FootfallCam Platform

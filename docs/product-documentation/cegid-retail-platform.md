@@ -55,6 +55,16 @@ for:
 - **Room to grow** — from a single-brand fashion retailer to a
   multi-country, multi-brand operation.
 
+## Frequently asked questions
+
+Our support team has answered common questions about day-to-day use of
+Cegid Retail Y2, covering
+[POS access & troubleshooting](./cegid-faq/pos-access-troubleshooting),
+[front office & customer experience](./cegid-faq/front-office-customer-experience),
+[backend stability & system administration](./cegid-faq/backend-stability-system-administration),
+[modern POS hardware & dual display](./cegid-faq/modern-pos-hardware-dual-display),
+and [security, uptime & recovery](./cegid-faq/security-uptime-recovery).
+
 ## Get started
 
 Integrated Retail handles the implementation, localization and ongoing
