@@ -101,7 +101,7 @@ const config = {
         {
           name: 'keywords',
           content:
-            'retail POS system, unified commerce, omnichannel retail, retail technology Asia Pacific, Cegid, Retail Pro Prism, POS software Singapore',
+            'retail POS system, unified commerce, omnichannel retail, retail technology Asia Pacific, Cegid, Retail Pro Prism, FootfallCam, POS software Singapore',
         },
       ],
       colorMode: {
@@ -136,6 +136,7 @@ const config = {
               { label: 'Product Documentation', to: '/docs/product-documentation/brochure' },
               { label: 'Cegid Retail Platform', to: '/docs/product-documentation/cegid-retail-platform' },
               { label: 'Retail Pro Prism Platform', to: '/docs/product-documentation/retailpro-prism-platform' },
+              { label: 'FootfallCam Platform', to: '/docs/product-documentation/footfallcam-platform' },
             ],
           },
           {

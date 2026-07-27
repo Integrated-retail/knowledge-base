@@ -7,11 +7,12 @@ sidebar_position: 7
 
 # Retail Pro Prism Platform
 
-Retail Pro Prism is one of **Integrated Retail's two core technology
-platforms** (alongside [Cegid](./cegid-retail-platform)). We partner with
-**Retail Pro**, a specialty retail POS platform used by over 9,000
-retailers and 54,000 stores in 130+ countries, to deliver flexible,
-highly-configurable store systems for fashion, lifestyle and consumer
+Retail Pro Prism is one of **Integrated Retail's core technology
+platforms** (alongside [Cegid](./cegid-retail-platform) and
+[FootfallCam](./footfallcam-platform)). We partner with **Retail Pro**, a
+specialty retail POS platform used by over 9,000 retailers and 54,000
+stores in 130+ countries, to deliver flexible, highly-configurable store
+systems for fashion, lifestyle and consumer
 goods retailers across Asia Pacific.
 
 Full official product documentation is maintained by Retail Pro at

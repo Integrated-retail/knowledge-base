@@ -20,10 +20,11 @@ clients across Asia Pacific.
 | Consumer Engagement | Consistent, attributable messaging across channels to assess marketing efficiency. |
 | Inventory Management | Optimized stock holding across stores and selling channels. |
 | Reporting and Analytics | Intuitive, holistic reporting across PC, mobile and other devices — see [Reporting](./reporting). |
+| Traffic Counting | People counting, heatmaps and dwell-time analytics — see [FootfallCam](./footfallcam-platform). |
 
-These modules are delivered via our two core platforms —
-[Cegid](./cegid-retail-platform) and
-[Retail Pro Prism](./retailpro-prism-platform) — matched to what fits
-your business.
+These modules are delivered via our core platforms —
+[Cegid](./cegid-retail-platform), [Retail Pro Prism](./retailpro-prism-platform)
+and [FootfallCam](./footfallcam-platform) — matched to what fits your
+business.
 
 _Source: [integratedretail.com/solutions](https://integratedretail.com/solutions/)._
