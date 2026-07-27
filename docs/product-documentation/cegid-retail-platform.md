@@ -59,11 +59,11 @@ for:
 
 Our support team has answered common questions about day-to-day use of
 Cegid Retail Y2, covering
-[POS access & troubleshooting](./cegid-faq/pos-access-troubleshooting),
-[front office & customer experience](./cegid-faq/front-office-customer-experience),
-[backend stability & system administration](./cegid-faq/backend-stability-system-administration),
-[modern POS hardware & dual display](./cegid-faq/modern-pos-hardware-dual-display),
-and [security, uptime & recovery](./cegid-faq/security-uptime-recovery).
+[POS access & troubleshooting](/docs/kb/cegid/pos-access-troubleshooting),
+[front office & customer experience](/docs/kb/cegid/front-office-customer-experience),
+[backend stability & system administration](/docs/kb/cegid/backend-stability-system-administration),
+[modern POS hardware & dual display](/docs/kb/cegid/modern-pos-hardware-dual-display),
+and [security, uptime & recovery](/docs/kb/cegid/security-uptime-recovery).
 
 ## Get started
 

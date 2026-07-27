@@ -60,11 +60,11 @@ Retailers evaluating Retail Pro Prism typically value:
 
 Our support team has answered common questions about day-to-day use of
 Retail Pro Prism, covering
-[fast billing & checkout](./retailpro-prism-faq/fast-retail-billing-checkout),
-[real-time inventory & stock management](./retailpro-prism-faq/real-time-inventory-stock-management),
-[omnichannel returns, exchanges & BOPIS](./retailpro-prism-faq/omnichannel-returns-exchanges-bopis),
-[system integration, API & scalability](./retailpro-prism-faq/system-integration-api-scalability),
-and [secure IT support: data sync & offline reliability](./retailpro-prism-faq/secure-it-support-data-sync-offline).
+[fast billing & checkout](/docs/kb/retailpro-prism/fast-retail-billing-checkout),
+[real-time inventory & stock management](/docs/kb/retailpro-prism/real-time-inventory-stock-management),
+[omnichannel returns, exchanges & BOPIS](/docs/kb/retailpro-prism/omnichannel-returns-exchanges-bopis),
+[system integration, API & scalability](/docs/kb/retailpro-prism/system-integration-api-scalability),
+and [secure IT support: data sync & offline reliability](/docs/kb/retailpro-prism/secure-it-support-data-sync-offline).
 
 ## Get started
 
