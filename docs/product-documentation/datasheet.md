@@ -21,4 +21,9 @@ clients across Asia Pacific.
 | Inventory Management | Optimized stock holding across stores and selling channels. |
 | Reporting and Analytics | Intuitive, holistic reporting across PC, mobile and other devices — see [Reporting](./reporting). |
 
+These modules are delivered via our two core platforms —
+[Cegid](./cegid-retail-platform) and
+[Retail Pro Prism](./retailpro-prism-platform) — matched to what fits
+your business.
+
 _Source: [integratedretail.com/solutions](https://integratedretail.com/solutions/)._

@@ -32,4 +32,13 @@ transformation services.
 - **Conversational Commerce** and **AI-based Innovative Solutions**
 - **Process Optimisation**
 
+## Our core platforms
+
+These solutions are delivered on two leading retail technology platforms:
+
+- **[Cegid Retail Platform](./cegid-retail-platform)** — Cegid Retail Y2,
+  UR/Winstore, Orli/SCM and Retail Intelligence.
+- **[Retail Pro Prism Platform](./retailpro-prism-platform)** — used by
+  9,000+ retailers and 54,000+ stores in 130+ countries worldwide.
+
 _Source: [integratedretail.com/about](https://integratedretail.com/about/)._

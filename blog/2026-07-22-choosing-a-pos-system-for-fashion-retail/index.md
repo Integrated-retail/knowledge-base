@@ -74,7 +74,9 @@ resolved.
 
 Integrated Retail has implemented POS and unified commerce solutions for
 over 200 clients and 3,000+ storefronts across Asia Pacific, with local
-teams in Singapore, Indonesia and Thailand.
+teams in Singapore, Indonesia and Thailand — primarily on
+[Cegid](/docs/product-documentation/cegid-retail-platform) and
+[Retail Pro Prism](/docs/product-documentation/retailpro-prism-platform).
 
 If you're evaluating a POS upgrade, [book a free consultation](https://integratedretail.com/contact/)
 and we'll walk through your current setup against this checklist.

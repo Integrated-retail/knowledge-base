@@ -7,9 +7,11 @@ sidebar_position: 6
 
 # Cegid Retail Platform
 
-Integrated Retail partners with **Cegid**, a global leader in retail
-technology, to deliver unified commerce solutions for fashion, lifestyle
-and consumer goods retailers across Asia Pacific.
+Cegid is one of **Integrated Retail's two core technology platforms**
+(alongside [Retail Pro Prism](./retailpro-prism-platform)). We partner with
+**Cegid**, a global leader in retail technology, to deliver unified
+commerce solutions for fashion, lifestyle and consumer goods retailers
+across Asia Pacific.
 
 Full official product documentation is maintained by Cegid at
 **[retail-docs.cegid.cloud](https://retail-docs.cegid.cloud/)**. The
