@@ -13,7 +13,7 @@ const config = {
   title: 'Integrated Retail Knowledge Hub',
   tagline:
     'Omnichannel POS, unified commerce and retail technology guides for fashion, lifestyle and CPG retailers in Asia Pacific',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/ir-icon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
