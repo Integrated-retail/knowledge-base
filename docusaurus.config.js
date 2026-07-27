@@ -24,11 +24,11 @@ const config = {
   url: 'https://integrated-retail.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/KB-Test/',
+  baseUrl: '/knowledge-base/',
 
   // GitHub pages deployment config.
   organizationName: 'Integrated-retail', // GitHub org name.
-  projectName: 'KB-Test', // GitHub repo name.
+  projectName: 'knowledge-base', // GitHub repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
