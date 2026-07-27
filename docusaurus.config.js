@@ -78,6 +78,20 @@ const config = {
     ],
   ],
 
+  themes: [
+    [
+      '@easyops-cn/docusaurus-search-local',
+      /** @type {import('@easyops-cn/docusaurus-search-local').PluginOptions} */
+      ({
+        hashed: true,
+        indexBlog: true,
+        indexPages: true,
+        docsRouteBasePath: '/docs',
+        blogRouteBasePath: '/blog',
+      }),
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
