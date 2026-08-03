@@ -18,3 +18,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# GLPI migration working data (regenerate with scripts/export-to-glpi.js,
+# scripts/generate-glpi-import-sql.js, scripts/import-glpi-articles.js)
+glpi-import.json
+glpi-import.sql
+glpi-publishable.json

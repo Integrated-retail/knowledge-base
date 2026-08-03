@@ -67,7 +67,7 @@ solutions currently power over 3,000 storefronts and more than US$1
 billion in commerce.
 
 See [Cegid Retail Platform](/docs/product-documentation/cegid-retail-platform)
-or [Retail Pro Prism Platform](/docs/product-documentation/retailpro-prism-platform)
+or [Retail Pro Prism Platform](/docs/product-documentation/retail-pro-prism-platform)
 for a closer look at the platforms we implement, or
 [get in touch](https://integratedretail.com/contact/) to discuss your
 current setup.

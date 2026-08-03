@@ -21,6 +21,8 @@
     "@easyops-cn/docusaurus-search-local": "^0.55.2",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "front-matter": "^4.0.2",
+    "marked": "^18.0.7",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

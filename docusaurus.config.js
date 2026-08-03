@@ -135,7 +135,7 @@ const config = {
             items: [
               { label: 'Product Documentation', to: '/docs/product-documentation/brochure' },
               { label: 'Cegid Retail Platform', to: '/docs/product-documentation/cegid-retail-platform' },
-              { label: 'Retail Pro Prism Platform', to: '/docs/product-documentation/retailpro-prism-platform' },
+              { label: 'Retail Pro Prism Platform', to: '/docs/product-documentation/retail-pro-prism-platform' },
               { label: 'FootfallCam Platform', to: '/docs/product-documentation/footfallcam-platform' },
             ],
           },
