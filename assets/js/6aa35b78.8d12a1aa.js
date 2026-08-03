@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkintegrated_retail_kb=self.webpackChunkintegrated_retail_kb||[]).push([["6393"],{9299(e){e.exports=JSON.parse('{"authors":[{"name":"Integrated Retail","title":"Retail Technology Team","url":"https://integratedretail.com","imageURL":"/knowledge-base/img/ir-icon.png","key":"integratedretail","page":null,"count":4}]}')}}]);
